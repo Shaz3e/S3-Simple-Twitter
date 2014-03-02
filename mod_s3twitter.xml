@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="site" version="2.5" method="upgrade">
+	<name>S3 Simple Twitter</name>
+	<author>Shaz3e</author>
+	<creationDate>2 February 2014</creationDate>
+	<copyright>GNU / GPL</copyright>
+	<authorEmail>iam@shaz3e.com</authorEmail>
+	<authorUrl>http://www.shaz3e.com</authorUrl>
+	<version>1.0</version>
+	<description>This is the module which you can create follow link in 3 simple steps</description>
+	
+	<files>
+		<filename>mod_s3twitter.xml</filename>
+		<filename module="mod_s3twitter">mod_s3twitter.php</filename>
+		<filename>index.html</filename>
+	</files>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="basic" label="Basic Information">
+				<field name="TwitterUsername" type="text" label="Twitter Username" description="Type your twitter username" />
+				<field name="TwitterAnchorText" type="text" label="Follow Me on Twitter" description="Type your Anchor Text" />
+				<field name="TargetLink" type="list" label="Target Link" description="Target your link in the list">
+					<option value="_blank">Open in a new windows</option>
+					<option value="_self">Open in a same window</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>
