@@ -9,7 +9,7 @@ S3 Simple Twitter is a easy to use Module with the follow me link and you can ed
 Its has only 3 Parameters that's why I call it S3 Simple Twitter Module
  - Type your Twitter Username
  - Type your Anchor Text
- - Tell Joomla how to open the link i.e. New window or Samw Window
+ - Tell Joomla how to open the link i.e. New window or Same Window
  - and you are done.
 
 ## Licence
