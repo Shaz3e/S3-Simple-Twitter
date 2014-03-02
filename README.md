@@ -14,6 +14,6 @@ Its has only 3 Parameters that's why I call it S3 Simple Twitter Module
 
 ## Licence
 
-The S3 Responsive Template System is opensource software released under the [GPL](http://www.gnu.org/licenses/gpl-2.0.txt).
+The S3 Simple Twitter Module is opensource software released under the [GPL](http://www.gnu.org/licenses/gpl-2.0.txt).
 
 [Shaz3e's Website](http://www.shaz3e.com) | [@Shaz3e](https://www.twitter.com/Shaz3e) | [Fan Page](https://www.facebook.com/Shaz3e)
